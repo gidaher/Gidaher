@@ -7,7 +7,7 @@ Back-end no SENAI | Profissional Melhoria Contínua | Processos Industriais | IS
 <div style="display: inline_block"><br>
   <img align="center" alt="Giselle-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Giselle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Giselle-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Giselle-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/senai/senai-original.svg">
  
  </div>
 <br>
