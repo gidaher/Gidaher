@@ -1,4 +1,4 @@
-Back-end no SENAI | Profissional Melhoria Contínua | Processos Industriais | ISO | Lean | Inovação | Processos 
+Back-end no SENAI | Profissional Melhoria Contínua | Processos Industriais | ISO | Lean | Inovação | Processos | Qualidade | Mapeamento fluxo de valor 
 
 <div align="left">
   <a href="[https://github.com/gidaher/Gidaher/edit/main/README.md]">
