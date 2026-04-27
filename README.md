@@ -15,5 +15,5 @@ Análise de Dados | Experiência do Cliente (CX) | Processos & Melhoria Contínu
 
 <div>
 
- <a href="https://www.linkedin.com/in/gi-daher-a94733256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="[https://www.linkedin.com/in/gi-daher-a94733256/](https://www.linkedin.com/in/giselle-de-lima-daher-a94733256/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
